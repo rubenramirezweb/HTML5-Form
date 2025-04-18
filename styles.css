@@ -187,3 +187,11 @@ body {
     display: flex;
     align-items: center;
 }
+
+.footer-marca {
+    text-align: center;
+}
+
+.fa-solid {
+    color: red;
+}
